@@ -65,14 +65,7 @@ $endif$
   </div>
   $endif$
 
-  $if(date_lecture)$
-  <div>
-    <div class="quarto-title-meta-heading">LECTURE</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date-lecture">$date_lecture$</p>
-    </div>
-  </div>
-  $elseif(date-modified)$
+  $if(date-modified)$
   <div>
     <div class="quarto-title-meta-heading">$labels.modified$</div>
     <div class="quarto-title-meta-contents">

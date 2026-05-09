@@ -6,7 +6,6 @@ project:
     - "recherche/**/*.qmd"
     - "enseignement/**/*.qmd"
     - "conferences/**/*.qmd"
-    - "lectures/**/*.qmd"
     - "!gabarits/*.qmd"
 
 website:
@@ -25,8 +24,6 @@ website:
         text: Enseignement
       - href: conferences/index.qmd
         text: Conférences
-      - href: lectures/index.qmd
-        text: Lectures
     right:
       - icon: github
         href: https://github.com/votre-utilisateur/votre-repo

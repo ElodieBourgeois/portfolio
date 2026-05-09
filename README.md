@@ -9,19 +9,17 @@ Template pret a utiliser pour creer un site personnel d'etudiante/etudiant cherc
 - `recherche/` : projets et travaux de recherche
 - `enseignement/` : experiences d'enseignement
 - `conferences/` : conferences/communications
-- `lectures/` : fiches de lecture et notes d'articles
 - `gabarits/` : modeles `.qmd` a copier
 
 ## Principe important: ajout automatique des pages
 
-Les pages `recherche/index.qmd`, `enseignement/index.qmd`, `conferences/index.qmd` et `lectures/index.qmd` utilisent des **listings**.
+Les pages `recherche/index.qmd`, `enseignement/index.qmd` et `conferences/index.qmd` utilisent des **listings**.
 
 Si vous ajoutez un fichier `.qmd` dans les dossiers ci-dessous, il apparaitra automatiquement dans la section correspondante:
 
 - `recherche/elements/`
 - `enseignement/elements/`
 - `conferences/elements/`
-- `lectures/elements/`
 
 ## Demarrage rapide
 
@@ -44,7 +42,6 @@ Meme logique pour:
 
 - `gabarits/modele-enseignement.qmd` -> `enseignement/elements/`
 - `gabarits/modele-conference.qmd` -> `conferences/elements/`
-- `gabarits/modele-note-lecture.qmd` -> `lectures/elements/`
 
 ## Deploiement sur Posit Connect Cloud
 

@@ -22,4 +22,3 @@ Ce site presente mon profil academique, mes travaux, mes activites d'enseignemen
 - [Travaux de recherche](recherche/index.qmd)
 - [Enseignement](enseignement/index.qmd)
 - [Conferences](conferences/index.qmd)
-- [Articles lus et fiches](lectures/index.qmd)
