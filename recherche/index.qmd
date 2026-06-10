@@ -1,26 +1,12 @@
 ---
 title: "Travaux de recherche"
 listing:
-  contents: elements/*.qmd
+  contents: "*.qmd"
   type: table
-  fields: [title, date, categories, resume]
+  fields: [title, date, description]
   sort: "date desc"
   filter-ui: true
   sort-ui: true
   page-size: 10
+  date-format: "iso"
 ---
-
-Ajoutez un fichier `.qmd` dans `recherche/elements/` pour qu'il apparaisse automatiquement ici.
-
-## Exemples de categories (filtres)
-
-Utilisez des categories coherentes pour faciliter le filtrage:
-
-- activite physique
-- performance sportive
-- biomecanique
-- neurosciences
-- readaptation
-- vieillissement
-- sante mentale
-- methodologie

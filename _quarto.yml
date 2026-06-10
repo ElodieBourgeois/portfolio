@@ -18,10 +18,10 @@ website:
         text: Profil
       - href: recherche/index.qmd
         text: Recherche
-      - href: enseignement/index.qmd
-        text: Enseignement
-      - href: conferences/index.qmd
-        text: Conférences
+      # - href: enseignement/index.qmd
+      #   text: Enseignement
+      # - href: conferences/index.qmd
+      #   text: Conférences
     right:
       - icon: github
         href: https://github.com/ElodieBourgeois/

@@ -1,7 +1,7 @@
 ---
 title: "Conferences et communications"
 listing:
-  contents: elements/*.qmd
+  contents: "*.qmd"
   type: table
   fields: [title, date, categories, resume]
   sort: "date desc"
@@ -10,7 +10,7 @@ listing:
   page-size: 10
 ---
 
-Ajoutez un fichier `.qmd` dans `conferences/elements/` pour qu'il apparaisse automatiquement ici.
+Ajoutez un fichier `.qmd` dans `conferences/` pour qu'il apparaisse automatiquement ici.
 
 ## Exemples de categories (filtres)
 

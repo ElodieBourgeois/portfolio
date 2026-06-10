@@ -2,7 +2,7 @@
 title: "Etude pilote sur l'activite physique en milieu universitaire"
 date: 2026-01-10
 categories: [activite physique, etudiants]
-abstract: "Projet pilote evaluant l'adherence a un programme de 8 semaines."
+description: "Projet pilote evaluant l'adherence a un programme de 8 semaines."
 ---
 
 ## Objectif
