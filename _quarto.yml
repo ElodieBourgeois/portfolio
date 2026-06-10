@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: _site
   render:
     - "*.qmd"
     - "recherche/**/*.qmd"
@@ -10,8 +9,7 @@ project:
 
 website:
   title: "Portfolio académique"
-  site-url: "https://example.posit.cloud"
-  page-navigation: true
+  site-url: "https://elodiebourgeois-portfolio.share.connect.posit.cloud/"
   navbar:
     left:
       - href: index.qmd
@@ -26,11 +24,8 @@ website:
         text: Conférences
     right:
       - icon: github
-        href: https://github.com/votre-utilisateur/votre-repo
-        aria-label: GitHub
-  page-footer:
-    left: "Site académique Quarto"
-    right: "Construit avec Quarto"
+        href: https://github.com/ElodieBourgeois/
+
 
 format:
   html:
@@ -41,9 +36,5 @@ format:
       dark: [darkly, styles-dark.scss]
     toc: true
     toc-depth: 2
-    code-copy: true
-    smooth-scroll: true
 
 lang: fr
-execute:
-  freeze: auto
