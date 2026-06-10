@@ -3,22 +3,14 @@ title: "Accueil"
 ---
 
 :::{.hero}
-# Nom de l'etudiante ou de l'etudiant
+# Élodie Bourgeois
 
-Etudiante/etudiant a la maitrise ou au doctorat en kinesiologie.
+Étudiante à la maîtrise en kinésiologie à l'Université Laval.
 
-- Axe de recherche 1
+- Promotion des saines habitudes de vie
 - Axe de recherche 2
-- Methodologie principale
 :::
 
 ## Bienvenue
 
-Ce site presente mon profil academique, mes travaux, mes activites d'enseignement et mes conferences.
-
-## Acces rapide
-
-- [Profil](profil.qmd)
-- [Travaux de recherche](recherche/index.qmd)
-- [Enseignement](enseignement/index.qmd)
-- [Conferences](conferences/index.qmd)
+Ce site présente mon profil académique et mes travaux de recherche.

@@ -8,7 +8,7 @@ project:
     - "!gabarits/*.qmd"
 
 website:
-  title: "Portfolio académique"
+  title: "Élodie Bourgeois"
   site-url: "https://elodiebourgeois-portfolio.share.connect.posit.cloud/"
   navbar:
     left:
