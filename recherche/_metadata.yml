@@ -1,0 +1,9 @@
+format:
+  html: default
+  docx: default
+  typst: default
+format-links:
+  - docx
+  - format: typst
+    text: PDF
+    icon: file-pdf
