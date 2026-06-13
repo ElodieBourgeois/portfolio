@@ -3,6 +3,7 @@ title: "Effectiveness of sedentary behaviour reduction interventions among telew
 date: 2026-06-12
 categories: [telework, sedentary behaviour, scoping review]
 description: "Protocol for a rapid scoping review on interventions targeting sedentary behaviour reduction among teleworkers."
+draft: true
 ---
 
 <!-- trouver un titre plus parlant? si on a pas le GRADE alors on peut pas dire effectiveness -->

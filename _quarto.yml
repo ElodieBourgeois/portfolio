@@ -25,6 +25,7 @@ website:
     right:
       - icon: github
         href: https://github.com/ElodieBourgeois/
+  draft-mode: visible
 
 
 format:
