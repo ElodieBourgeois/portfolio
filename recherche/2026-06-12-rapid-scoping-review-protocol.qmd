@@ -4,6 +4,40 @@ date: 2026-06-12
 categories: [telework, sedentary behaviour, scoping review]
 description: "Protocol for a rapid scoping review on interventions targeting sedentary behaviour reduction among teleworkers."
 draft: true
+authors:
+  - name: Élodie Bourgeois
+    email: elodie.bourgeois.1@ulaval.ca
+    url: https://elodiebourgeois-portfolio.share.connect.posit.cloud/
+    degrees:
+      - B. Sc.
+    role: "writing – original draft"
+    affiliations:
+      - ref: kin
+  - name: Stephanie Allushi
+    affiliations:
+      - ref: kin
+  - name: Tyler Pacheco
+    affiliations:
+      - ref: ind
+  - name: Simon Coulombe
+    affiliations:
+      - ref: ind
+  - name: Kadia Saint-Onge
+    affiliations:
+      - ref: kin
+affiliations:
+  - id: kin
+    name: Université Laval
+    department: Department of kinesiology
+    city: Québec
+    country: Canada
+    url: https://www.fmed.ulaval.ca/faculte-et-reseau/departement-de-kinesiologie
+  - id: ind
+    name: Université Laval
+    department: Department of industrial relations
+    city: Québec
+    country: Canada
+    url: https://www.fss.ulaval.ca/relations-industrielles
 ---
 
 <!-- trouver un titre plus parlant? si on a pas le GRADE alors on peut pas dire effectiveness -->
