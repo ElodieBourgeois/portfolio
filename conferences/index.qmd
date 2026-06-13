@@ -2,24 +2,11 @@
 title: "Conferences et communications"
 listing:
   contents: "*.qmd"
-  type: table
-  fields: [title, date, categories, resume]
+  type: default
+  fields: [title, date, image, categories]
   sort: "date desc"
   filter-ui: true
   sort-ui: true
   page-size: 10
+  categories: true
 ---
-
-Ajoutez un fichier `.qmd` dans `conferences/` pour qu'il apparaisse automatiquement ici.
-
-## Exemples de categories (filtres)
-
-Choisissez 1 a 3 categories par entree:
-
-- communication orale
-- affiche
-- symposium
-- congres national
-- congres international
-- vulgarisation
-- invitation
