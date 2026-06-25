@@ -41,179 +41,119 @@ affiliations:
 ---
 
 <!-- trouver un titre plus parlant? si on a pas le GRADE alors on peut pas dire effectiveness -->
+
 <!-- behaviour or behavior?? (english, canadian, american?) -->
+
 <!-- Ça va dépendre d’ou on publie. Comme nous sommes au Canada, commence avec behaviour, on s’ajustera au besoin -->
 
 ## Authors
 
 Élodie Bourgeois^1^ Stephanie Allushi^2^ Tyler Pacheco^3^ Simon Coulombe^4^ Kadia Saint-Onge^5^
 
-1. Department of kinesiology, Université Laval
-2. Department of industrial relations, Université Laval
+1.  Department of kinesiology, Université Laval
+2.  Department of industrial relations, Université Laval
 
 ## Abstract
 
-<!-- Dans les articles "scoping protocols" que je vois, il y a souvent seulement introduction/background, méthodes et analyses, éthiques et dissemination PLOS One -->
-<!-- PRISMA-ScR : Provide a structured summary that includes (as applicable): background, objectives, eligibility criteria, sources of evidence, charting methods, results, and conclusions that relate to the review questions and objectives. -->
+Objective: This protocol describes a rapid scoping review which will inform the development of a future workplace intervention aiming at reducing sedentary behaviours among teleworkers.
 
-(Maximum - 250 words for Protocols/500 words for Reviews)
+Introduction: The SARS COVID-19 pandemic has contributed to the popularization of teleworking, which is associated with an increase in sedentary behaviours that prevails a higher risk of cardiovascular and metabolic disease. Preliminary searches identified reviews examining telework and health outcomes, but no review specifically focused on interventions aimed at reducing sedentary behaviour among teleworkers. A better understanding of these interventions is particularly important given that the workplace represents a key setting for health promotion among adults, and failing to consider teleworkers may exclude a substantial proportion of the working population.
 
-Objective:
-This protocol describes a rapid scoping review which will inform the development of a future workplace intervention aiming at reducing sedentary behaviours among teleworkers.
+Inclusion criteria: Using the Population-Concept-Context (PCC) framework, this review will focus on teleworkers aged 18 years and older (P), interventions aimed at reducing sedentary behaviour (C), studies conducted during and after the pandemic (C). Studies targeting physical activity without a specific sedentary behaviour reduction component will be excluded as well as studies focusing solely on sedentary behaviour without any implementation of an intervention.
 
-<!-- Juste pour clarifier, est-ce que le télétravail cause un plus haut risque de MCV ou c’est la sédentarité qui mène à un plus haut risque de MCV? -->
-<!-- Il faudrait trouver un argument soulignant les faiblesses des revues précédentes. S’il en existe plus d’une, pourquoi en faire une autre? -->
-<!-- Éventuellement, penser à un argumentaire pour justifier l’importance de s’attarder à cette population pour l’introduction de l’article. Par exemple, on sait que la promo en milieu de vie est nécessaire, le milieu de travail est un des rares lieux oû rejoindre les adultes et si on ne s’attarde pas au télétravail, on exclue une tranche non négligeable de la population -->
-
-Introduction:
-The SARS COVID-19 pandemic has contributed to the popularization of teleworking, which is associated with an increase in sedentary behaviours that prevalesa higher risk of cardiovascular and metabolic disease. To date, no review has specifically examined interventions aimed at reducing sedentary behaviour among teleworkers working from home. A better understanding of these interventions is particularly important given that the workplace represents a key setting for health promotion among adults, and failing to consider teleworkers may exclude a substantialproportion of the working population.
-
-<!-- Je propose une formulation du genre «Using the PCC framework, this review will focus on P…, C…, C…» -->
-
-Inclusion criteria:
-Using the Population-Concept-Context (PCC) framework, this review will focus on adults aged 18 years and older (P), interventions aimed at reducing sedentary behaviour (C), and the home-based telework setting (C). Studies targeting physical activity without a specific sedentary behaviour reduction component will be excluded as well as studies focusing solely on sedentary behaviour without any implementation of an intervention.
-
-<!-- Comme cette partie a déjà été faite, nous pouvons la mettre au passé -->
-
-Methods:
-This rapid scoping review will follow the Joanna Briggs Institute recommendations and the PRISMA-ScR guidelines. Articles have beenretrieved via WOS, Medling, Embase, CINAHL and PsychINFO from January 2020, to May 2026. Study selection and data extraction will be conducted independently by two reviewers using the Covidence platform.
+Methods: This rapid scoping review will follow the Joanna Briggs Institute recommendations and the PRISMA-ScR guidelines. Articles have been retrieved via WOS, Medling, Embase, CINAHL and PsychINFO from January 2020, to May 2026. Study selection and data extraction will be conducted in accordance with the Cochrane rapid review recommendations using the Covidence platform.
 
 Keywords:
 
 ## Introduction
 
-<!-- Pas la source primaire -->
+The rapid expansion of telework following the SARS COVID-19 pandemic has transformed work organization worldwide. Although telework existed before 2020, public health restrictions and repeated lockdown accelerated its implementation, making remote work a central component of modern employment practices (Hormidas et al., 2025). Telework is defined as working fully or partly in an alternative location other than the default place of work using information and communication technologies, such as computers, tablets, or telephones (ILO, 2020). In Canada, the proportion of workers who performed most of their work hours from home increased from 7% in May 2016 to 24% in July 2022, before slightly declining to 21% in July 2023 (Statistics Canada, 2024). Even after the lifting of sanitary restrictions, many organizations continued to adopt hybrid or fully remote models due to perceived organizational and individual benefits, including potential costs savings from saved office space, greater flexibility and autonomy, and improved work-life balance (Babapour Chafi et al., 2022). Consequently, telework is no longer considered a temporary adaptation, but rather a sustainable and evolving work modality that is likely to remain prevalent in the coming years (Statistics Canada, 2023). This shift has important implications for workplace health and the promotion of healthy behaviours among workers.
 
-The rapid expansion of telework following the SARS COVID-19 pandemic has transformed work organization worldwide. Although telework existed before 2020, public health restrictions and repeated lockdown accelerated its implementation, making remote work a central component of modern employment practices (Hormidas et al., 2025). Even after the lifting of sanitary restrictions, many organizations continued to adopt hybrid or fully remote models due to perceived organizational and individual benefits, including potential costs savings from saved office space, greater flexibility and autonomy, and improved work-life balance (Xiao et al., 2021, Babapour Chafi et al., 2022). Consequently, telework is no longer considered a temporary adaptation, but rather a sustainable and evolving work modality that is likely to remain prevalent in the coming year (stats canada, 2023? Plus worldwide?).
+Despite its potential benefits, concerns have emerged regarding the potential health consequences associated with telework, particularly in relation to sedentary behaviour (Patterson et al., 2018; Morton et al., 2022). Sedentariness has been identified as an occupational risk factor that should be considered in workplace health and safety assessments (Dutheil et al., 2020). In traditional office settings, workers may accumulate light-intensity physical activity through commuting, walking between meeting rooms, interacting with colleagues, or taking breaks away from their desks. Teleworking environments may reduce opportunities for incidental movement throughout the workday (Schöne et al., 2025). Consequently, teleworkers may spend extended periods sitting with fewer natural interruptions throughout the workday (Schöne et al., 2025).
 
-<!-- manque de fluidité -->
+Sedentary behaviour is generally defined as any waking behaviour characterized by an energy expenditure of 1.5 metabolic equivalents (METs) or lower while in a sitting, reclining, or lying posture (Tremblay et al., 2017). It is important to distinguish sedentary behaviour from physical inactivity. Physical inactivity refers to not achieving the recommended levels of moderate-to-vigorous physical activity, typically defined as at least 150 minutes of moderate-intensity physical activity per week for adults (Bull et al., 2020). An individual may therefore meet physical activity guidelines while still accumulating high levels of sedentary time during the day. This distinction is particularly relevant since the weekly physical activity recommendations (150min/week) do not fully offset the health risks associated with daily sitting time exceeding 8h (Ekelund et al., 2016).
 
-Despite these advantages, concerns have emerged regarding the potential health consequences associated with telework, particularly in relation to sedentary behaviours (Patterson et al., 2018, Morton et al., 2022). Sedentariness is considered a professional risk factor that should be included in the risk evaluation of employers (Dutheil et al., 2020). Teleworking environments often reduce opportunities for incidental movement throughout the day (Schöne et al., 2025). A Sweden study found that teleworkers seemed to be more relaxed, switched between sitting and standing more often during the day but had similar sedentary time then office workers (Widar et al., 2021). In traditional office settings, workers may accumulate light-intensity physical activity through commuting, walking between meeting rooms, interacting with colleagues, or taking breaks away from their desks. In contrast, telework may limit these opportunities, as professional interactions are frequently conducted virtually and workspaces are located close to living spaces.
+Prolonged sedentary time has been associated with several adverse cardiometabolic outcomes, including increased risks of cardiovascular disease, type 2 diabetes, obesity and all-cause mortality (Chau et al., 2013; Thorp et al., 2011; Wilmot et al., 2012). Physiologically, extended periods of sitting reduce skeletal muscle contractions, impair vascular function, blood pressure, blood glucose, and cerebral blood flow (Dunstan et al., 2021). Importantly, evidence suggests that these negative effects may occur independently of participation in physical activity (Ekelund et al., 2016). Consequently, reducing sedentary time has become a public health priority distinct from simply increasing physical activity levels (Bull et al., 2020).
 
-Sedentary behaviour is generally defined as any waking behaviour characterized by an energy expenditure of 1.5 metabolic equivalents (METs) or lower while in a sitting, reclining, or lying posture (Tremblay et al., 2017). It is important to distinguish sedentary behaviour from physical inactivity. Physical inactivity refers to not achieving the recommended levels of moderate-to-vigorous physical activity, typically defined as at least 150 minutes of moderate-intensity physical activity per week for adults (Bull et al., 2020). An individual may therefore meet physical activity guidelines while still accumulating high levels of sedentary time during the day. This distinction is particularly relevant since the weekly recommendations of physical activity (150min/week) cannot counteract the health risks associated with daily sitting time exceeding 8h (Ekelund et al., 2016).
+Several factors may contribute to sedentary behaviour among teleworkers. Flexible schedules, blurred boundaries between personal and professional life, high workload demands, and perceived pressure to remain constantly available may create conditions that favour prolonged periods of sitting during the workday (Hormidas et al., 2025; Morton et al., 2022). Additionally, the ergonomic and spatial characteristics of home offices may influence movement behaviours (Hormidas et al., 2025). Some teleworkers may lack access to appropriate workstations or dedicated spaces that facilitate posture variation and movement throughout the day (Fadel et al., 2023). Together, these contextual factors suggest that the determinants of sedentary behaviour among teleworkers may differ from those observed in traditional office settings.
 
-Au niveau physiologique, il y a aussi des différences. Voici ce que fait l’inactivité physique sur notre corps... (Booth et al., 2007)
+Given the growing recognition of sedentary behaviour as a modifiable health risk factor, numerous workplace interventions have been developed to reduce sitting time among workers (Shrestha et al., 2018). Systematic reviews have synthesized evidence on a variety of office-based interventions, including sit-stand workstations, active workstations, prompts encouraging movement breaks, educational interventions, organizational strategies, and multicomponent programs combining behavioral and environmental modifications (Shrestha et al., 2018; Morton et al., 2022). However, the transition toward telework has created new contextual realities for these interventions, and approaches that are effective in traditional office environments may not automatically transfer to home-based settings (Morton et al., 2022).
 
-Prolonged sedentary time has been associated with several adverse cardiometabolic outcomes, including increased risks of cardiovascular disease, type 2 diabetes, obesity, and premature mortality. Physiologically, extended periods of sitting reduce skeletal muscle contractions, impair vascular function, blood pressure, blood glucose, and cerebral blood flow (Dunstan et al., 2021). Importantly, evidence suggests that these negative effects may occur independently of participation inphysical activity (Ekelund et al., 2016). Consequently, reducing sedentary time has become a public health priority distinct from simply increasing physical activity levels. (retrouver graphiques - mémoire).
+The workplace is widely recognized as an important setting for health promotion because it provides access to a large proportion of the adult population during a substantial part of their waking hours (Linnan et al., 2008). As telework becomes increasingly integrated into modern employment practices (Statistics Canada, 2014), workplace health promotion initiatives that fail to consider teleworkers risk excluding a significant segment of the workforce. Nevertheless, a preliminary search of Google Scholar and Pubmed identified no current or ongoing scoping reviews specifically examining interventions aimed at reducing sedentary behaviour among teleworkers, although several reviews have explored broader health implications of telework, including musculoskeletal disorders, psychosocial outcomes, and general lifestyle behaviours (**Oakman et al., 2025; Schöne et al., 2025**). Understanding how sedentary behaviour reduction interventions have been implemented among teleworkers is therefore essential to ensure that workplace health promotion efforts remain relevant to evolving work environments.
 
-Several factors may contribute to sedentary behaviour among teleworkers. Flexible schedules, blurred boundaries between personal and professional life, high workload demands, and perceived pressure to remain constantly available may encourage workers to remain seated for prolonged periods without interruption. Additionally, the ergonomic and spatial characteristics of home offices may influence movement behaviours (Hormidas et al., 2025). Some teleworkers may lack access to appropriate workstations or dedicated spaces that facilitate posture variation and movement throughout the day (Fadel et al., 2023). (article about transferability of workplace interventions to WFH – morton et al., 2022)
-
-Numerous systematic reviews have synthesized evidence related to workplace interventions aimed at reducing sedentary behaviour in office-based settings (Morton et al., 2022). Common approaches include sit-stand workstations, active workstations, prompts encouraging movement breaks, educational interventions, organizational strategies, and multicomponent programs combining behavioral and environmental modifications (find multiple references). However, the transition toward telework has created new contextual realities for these interventions (Morton et al., 2022). A preliminary search of XX was conducted, and no current or underway scoping reviews on interventions targeting sedentary behaviour reduction among teleworkers were identified, although some reviews have explored the health implications of telework, including musculoskeletal disorders, psychosocial outcomes, and general lifestyle behaviours (find multiple references).
-
-In the context of this review, interventions targeting sedentary behaviour reduction refer specifically to strategies aiming to decrease sitting time, interrupt prolonged sitting bouts, or promote movement breaks during working hours, rather than interventions exclusively designed to increase physical activity.
-
-A scoping review synthesizes and describes evidence coverage... This rapid scoping review aims to inform the development of a future intervention program targeting sedentary behaviour reduction among teleworkers planned for implementation in 2026. A rapid scoping review approach was selected due to the practical timeline associated with the development of the planned intervention program.
+In the context of this review, interventions targeting sedentary behaviour reduction refer specifically to strategies aiming to decrease sitting time, interrupt prolonged sitting bouts, or promote movement breaks during working hours, rather than interventions exclusively designed to increase physical activity. This rapid scoping review aims to map and describe interventions targeting sedentary behaviour reduction among teleworkers to inform the development of a future workplace intervention planned for **implementation in 2027**. Given the objective of rapidly mapping the available evidence to inform the development of a future intervention, a rapid evidence synthesis approach was adopted.
 
 ## Review question
 
-What workplace interventions aimed at reducing sedentary behaviours have been implemented among adult teleworkers working full-time or in hybrid arrangements since the arrival of the SARS COVID-19 pandemic?
+What interventions aimed at reducing sedentary behaviour have been implemented among adult teleworkers working remotely full-time or in hybrid arrangements since 2020, and what are their characteristics, implementation considerations, and reported outcomes?
 
-Objectives? Or primary/secondary questions
+Objectives? Or primary/secondary questions?
 
 ## Inclusion criteria
 
 ### Participants
 
-<!-- did not put 20%, seems harder to justify if we also look at authors' definitions -->
-<!-- has to be specified (telework full-time or hybrid 20%) -->
-
-Only adults aged 18 years and older will be included, as the review focuses on adult salaried teleworkers working from home either full-time or in hybrid arrangements. Hybrid telework will refer to employees working remotely from home for at least part of their working hours, according to study authors’ definitions. Studies including both remote and in-person workers will only be included if results for teleworkers are reported separately. Studies focusing exclusively on non-working populations, such as students, retirees, volunteers, or self-employed individuals, will be excluded. We will include studies involving adult teleworkers regardless of health status. However, interventions specifically developed for therapeuticor rehabilitation purposes or aimed at treating a particular medical condition will be excluded to maintain the focus on sedentary behaviour reduction rather than clinical treatment interventions.
+Only adults aged 18 years and older will be included, as the review focuses on adult salaried teleworkers working either full-time or in hybrid arrangements. Hybrid telework will refer to employees working remotely for at least 20% of their work time **(NEED A REFERENCE)**. Studies including both remote and in-person workers will only be included if results for teleworkers are reported separately. We will include studies involving adult teleworkers regardless of health status. However, interventions specifically developed for therapeutic or rehabilitation purposes or aimed at treating a particular medical condition will be excluded to maintain the focus on sedentary behaviour reduction rather than clinical treatment interventions. Studies focusing exclusively on non-working populations, such as students, retirees, volunteers, or self-employed individuals, will be excluded.
 
 ### Concept
 
-<!-- add "studies may include..." examples of interventions? -->
-
-This review will consider workplace programs and interventions aimed, fully or partially, at reducing sedentary behaviours among teleworkers. Sedentary behaviour is defined as any waking behaviour characterised by low energy expenditure while in a sitting, reclining or lying posture (Tremblay et al., 2017). Any type of intervention will be considered, including individual, organisational, environmental and behavioural interventions, if theyexplicitly include the reduction or interruption of sedentary behaviour as one of their goals, since the rapid scoping review will be used to inform the development of a future intervention program aiming specifically at reducing sedentary behaviours. X. Studies targeting physical activity without a specific sedentary behaviour reduction component will be excluded as well as studies focusing solely on sedentary behaviour without any implementation of intervention or program.
+This review will consider workplace programs and interventions aimed, fully or partially, at reducing sedentary behaviours among teleworkers. Sedentary behaviour is defined as any waking behaviour characterised by low energy expenditure while in a sitting, reclining or lying posture (Tremblay et al., 2017). Any type of intervention will be considered, if they explicitly include the reduction or interruption of sedentary behaviour as one of their goals, since the rapid scoping review will be used to inform the development of a future intervention program aiming specifically at reducing sedentary behaviours. Studies targeting physical activity without a specific sedentary behaviour reduction component will be excluded as well as studies whose outcomes are limited to physiological, biochemical, molecular, genetic, or metabolic markers without measuring sedentary behaviour itself.
 
 ### Context
 
-<!-- Describe the time (pandemic + post-pandemic : 2020) and justify? -->
-<!-- if limited evidence is identified, studies published... -->
-<!-- Types of sources? -->
-<!-- search strategy? -->
-
-This review will focus on home-based telework settings in X. Telework refers to work performed remotely from home either full-time or in hybrid arrangements. Studies conducted in workplaces outside the home environment (e.g., cafés, co-working spaces, clinics, or other external locations) will be excluded unless home-based telework is specifically examined. Given the rapid nature of the review and feasibility considerations, only peer-reviewed studies will be included. No restrictions will be applied regarding the language or country of publication, as articles will be translated if necessary.
+This review will focus on the teleworking settings since the SARS COVID-19 pandemic. This timeframe was selected to reflect the substantial increase in telework practices associated with the pandemic and subsequent changes in teleworking behaviours (Statistics Canada, 2024). Studies conducted before 2020 will be excluded. Studies that include data collected both before and after 2020 will be included only if results from 2020 onward are reported seperately in the analysis. Given the rapid nature of the review and feasibility considerations, only peer-reviewed studies will be included (Garritty et al., 2024-2021). No restrictions will be applied regarding the language or country of publication, as articles will be translated if necessary.
 
 ### Types of sources
 
-Edit set text as appropriate:
-This scoping review will consider both experimental and quasi-experimental study designs including randomized controlled trials, non-randomized controlled trials, before and after studies and interrupted time-series studies. In addition, analytical observational studies including prospective and retrospective cohort studies, case-control studies and analytical cross-sectional studies will be considered for inclusion. This review will also consider descriptive observational study designs including case series, individual case reports and descriptive cross-sectional studies for inclusion.
+**Edit set text as appropriate:** This scoping review will consider both experimental and quasi-experimental study designs including randomized controlled trials, non-randomized controlled trials, before and after studies and interrupted time-series studies. In addition, analytical observational studies including prospective and retrospective cohort studies, case-control studies and analytical cross-sectional studies will be considered for inclusion. This review will also consider descriptive observational study designs including case series, individual case reports and descriptive cross-sectional studies for inclusion.
 
 Qualitative studies will also be considered that focus on qualitative data including, but not limited to, designs such as phenomenology, grounded theory, ethnography, qualitative description, action research and feminist research.
 
 ## Methods
 
-The reporting of this protocol follows the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols (PRISMA-P) guidelines (Moher and al., 2015). The subsequent scoping review will be reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) (Tricco et al., 2018). The review will be conducted in accordance with the Joanna Briggs Institute’s (JBI) updated guidance on scoping reviews (Micah et al., 2020). Given the objective of rapidly mapping the available evidence to inform the development of a future intervention, a rapid evidence synthesis approach was adopted while maintaining methodological rigour. Methodological adaptations include limiting the search topeer-reviewed articles. However, independent double-reviewer screening will be maintained throughout the study selection process. Any modifications to the protocol will be documented and reported in the final review.
+The reporting of this protocol follows the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols (PRISMA-P) guidelines (Moher and al., 2015). The subsequent scoping review will be reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) (Tricco et al., 2018). The review will be conducted in accordance with the Joanna Briggs Institute’s (JBI) updated guidance on scoping reviews (Micah et al., 2020). Given the need to generate evidence within a limited timeframe while maintaining methodological rigour, a rapid evidence synthesis approach was selected. Consistent with recommendations for rapid reviews , methodological adaptations were implemented to improve feasibility and timeliness, including limiting the search to peer-reviewed literature and adopting modified screening and data extraction procedure (Garritty et al., 2024-2021).
 
 ### Search strategy
 
 The search strategy will aim to locate published peer-reviewed studies examining interventions or programs targeting sedentary behaviour reduction among adult teleworkers. A three-step search strategy will be utilized in this review in accordance with JBI methodology for scoping reviews.
 
-<!-- on a trouvé des articles avant la rencontre avec la bibliothécaire, j'imagine que c'est là-dessus qu'elle s'est basé pour faire le premier fichier excel qu'on a review (home office, etc). J'essaie d'écrire, mais honnêtement, j'y vais avec le fichier d'exemple et les articles de rsrp -->
-
 First, an intial limited search of Google Scholar and PubMed was undertaken by the research team to identify relevant literature on the topic and determinewether existing knowledge syntheses had already addresses interventions targeting sedentary behaviour among home-based teleworkers. The text words contained in the titles and abstracts of relevant articles, as well as the index terms used to describe the articles, were analysed and used by the research librarian to develop the full search strategy.
 
-<!-- Est-ce qu'on va faire ça? -->
+The search strategy was developed in collaboration with an experienced research librarian and combines keywords, synonyms, and controlled vocabulary terms (e.g., MeSH terms) related to telework, sedentary behaviour, physical inactivity, and emerging concepts such as “activity snacks” or “snacktivity”. Search strategies was adapted according to the indexing system and functionalities of each database. The databases to be searched include Web of Science, MEDLINE, Embase, CINAHL and PsychINFO. The final search strategies for each database will be provided in an appendix.
 
-The search strategy was developed in collaboration with an experienced research librarian and combines keywords, synonyms, and controlled vocabulary terms (e.g., MeSH terms) related to telework, sedentary behaviour, physical inactivity, and emerging concepts such as “activity snacks” or “snacktivity”. Search strategies will be adapted according to the indexing system and functionalities of each database. The databases to be searched include Web of Science, MEDLINE, Embase, CINAHL and PsychINFO. The final search strategies for each database will be provided in an appendix. The reference lists of all included studies will also be screened to identifyadditional relevant articles.
+The review focuses on studies conducted in 2020 onward to analyse interventions or programs implemented during and after the SARS COVID-19 pandemic. Therefore, January 2020 was selected to capture the widespread transition of telework since the pandemic. No restrictions will be applied regarding the language or country of publication, as articles will be translated if necessary. Only peer-reviewed studies will be included, while grey litterature will be excluded, to align with the updated Cochrane rapid review recommendations (Garritty et al., 2024-2021).
 
-<!-- Temps de verbe? -->
-<!-- ref partout -->
+### Study selection
 
-During the development of the search strategy, the research team explored different publication timeframes to balance comprehensiveness and feasibility within the rapid review methodology. Searches limited to studies published after 2023 yielded too few articles; therefore, the search timeframe was expanded to January 2020 to capture the substantial increase in telework practices associated with the COVID-19 pandemic and the resulting changes in work-from-home behaviours. No restrictions will be applied regarding the language or country of publication, as articles will be translated if necessary. Only peer-reviewed studies will be included, while grey litterature will be excluded, to align with the rapid review methodology and ensure methodological rigour and feasibility within the project timeline.
+Following the search, all identified studies were collated and uploaded into COVIDENCE and duplicates were removed automatically and manually when necessary. Prior to formal screening, a pilot screening exercise was conducted using a sample of 30 studies, in accordance with the updated Cochrane rapid review recommendations (Garritty et al., 2021). The research team reviewed these studies to test and refine the title and abstract screening form and clarify the eligibility criteria when needed.
 
-### Study/Source of evidence selection
+Following the pilot phase, two reviewers will independently screen 20% of titles and abstracts to assess inter-reviewer agreement and identify potential conflicts in the application of the eligibility criteria. If a level of agreement above 80% is achieved, the review team will proceed with a modified single-reviewer screening approach consistent with rapid review methodology recommendations (Garritty et al., 2024-2021). In this approach, one reviewer will screen all remaining studies, while all excluded studies will be verified by a second reviewer. During the full-text review stage, a single-reviewer screening approach will be applied due to limited ressources. However, excluded studies will be verified by a second reviewer. Reasons for exclusion at the full-text stage will be recorded and reported in the final scoping review.
 
-<!-- bon mot? -->
-<!-- is this how it works? -->
-
-Following the search, all identifiedcitations will be collated and uploaded into COVIDENCE and duplicates will be removed automatically and manually when necessary. Prior to formal screening, a pilot screening exercise will be conducted using a sample of 50 citations, in accordance with the recommendations from the Cochrane Rapid Reviews Methods Group (REF). The research team will review these citations to test and refine the title and abstract screening form and clarify the eligibility criteria when needed.
-
-<!-- comment calculé ça? -->
-
-Following the pilot phase, two reviewers will independently screen approximately 20% of titles and abstracts to assess inter-reviewer agreement and identify potential conflicts in the application of the eligibility criteria. If a high level of agreement is achieved (K >=0.80), the review team will proceed with a modified single-reviewer screening approach consistent with rapid review methodologyrecommendations (ref). In this approach, one reviewer will screen all remaining citations, while all excluded studies will be verified by a second reviewer. The same screening approach will be applied during the full-text review stage, with two reviewers independently assessing an initial 20% sample of full-text articles before proceeding to single-reviewer screening with verification of excluded studies by a second reviewer. Potentially relevant studies will be retrieved in full-text and assessed against the eligibility criteria. Reasons for exclusion at the full-text stage will be recorded and reported in the final scoping review.
-
-<!-- could we judge the quality of studies even tho it's a rapid scoping review? -->
-
-Any disagreements arising between reviewers at any stage of the study selection process will be resolved through discussion or with the involvement of a third reviewer when necessary. The study selection process will be reported in the final scoping review using a PRISMA-ScR flow diagram describing X. As the objective of this scoping review is to map the existing literature rather than critically assess the effectiveness or certainty of evidence, a formal critical appraisal of included studies will not be conducted.
+Any disagreements arising between reviewers at any stage of the study selection process will be resolved through discussion or with the involvement of a third reviewer when necessary. The study selection process will be reported in the final scoping review using a PRISMA-ScR flow diagram describing the study selection process.
 
 ### Data extraction
 
-A data extraction form will be developed by the review team in Covidence and piloted on a small sample of included studies (minimum of two studies), in accordance with recommendations from the Cochrane Rapid Review Methods Group (REF). The pilot phase will allow the research team to test et refine the extraction form to ensure consistency, completeness, and relevance of the extracted data. Any modifications made to the extraction tool during the review process will be documented and reported in the final scoping review.
+A data extraction form will be developed by the review team in Covidence and piloted on a small sample (minimum 2) of included studies (Garritty et al., 2024-2021). The pilot phase will allow the research team to test et refine the extraction form to ensure consistency, completeness, and relevance of the extracted data. Any modifications made to the extraction tool during the review process will be documented and reported in the final scoping review.
 
-Data extraction will be conducted by one reviewer using the standardized extraction form. A second reviewer will verify the key extracted data for accuracy to ensure the integrity of the review. In accordance with rapid review recommendations, the second reviewer will independently consult full-text articles to confirm that no important information was omitted and that interpretations are consistent with the original studies.
+Data extraction will be conducted by one reviewer using the standardized extraction form. A second reviewer will verify the key extracted data for accuracy to ensure the integrity of the review and independently consult full-text articles to confirm that no important information was omitted and that interpretations are consistent with the original studies (Garritty et al., 2024-2021). Any disagreements between reviewers during the data extraction process will be resolved through discussion or with the involvement of a third reviewer when necessary.
 
-<!-- repetitive? -->
+The extracted data will include details relevant to the review objectives and research questions, including **(IT'S MOSTLY A GUESS)** :
 
-Any disagreements between reviewers during the data extraction process will be resolved through discussion or with the involvement of a third reviewer when necessary. Where required, authors of included studies may be contacted to request missing or additional information.
-
-<!-- aucune idée, à revoir -->
-
-The extracted data will include details relevant to the review objectives and research questions, including:
-
-- Study characteristics (authors, year of publication, country);
-- Study design and methodology;
-- Participant characteristics and telework context;
-- Intervention characteristics (type, duration, frequency, delivery mode, behavioural targets);
-- Outcomes related to sedentary behaviour and/or physical activity;
-- Key findings related to sedentary behaviour reduction among teleworkers;
-- Reported barriers, facilitators, or implementation considerations.
-
-Extracted data will be synthesized descriptively and presented in tables and narrative form to map the characteristics of existing interventions and identify gaps in the literature.
+-   Study characteristics (authors, year of publication, country);
+-   Study design and methodology;
+-   Participant characteristics and telework context;
+-   Intervention characteristics (type, duration, frequency, delivery mode, behavioural targets);
+-   Outcomes related to sedentary behaviour and/or physical activity;
+-   Key findings related to sedentary behaviour reduction among teleworkers;
+-   Reported barriers, facilitators, or implementation considerations.
 
 ### Data analysis and presentation
 
-<!-- besoin de plus d'info là-dessus pour mieux comprendre ce que ça signifie -->
+The results of the review will be reported in accordance with the PRISMA-ScR and its flow diagram will be used to present the study selection process. Extracted data will be synthesized descriptively and presented using narrative summaries, tables, and graphical representations where appropriate. Findings will be synthesized in relation to the review objectives and organized according to the Population-Concept-Context (PCC) framework **(NO IDEA IF THAT'S WHAT WE'LL)**.
 
-The results of the review will be reported in accordance with the PRISMA-ScR and its flow diagram will be used to present the study identification, screening, eligibility assessment, and inclusion processes. Extracted data will be synthesized descriptively and presented using narrative summaries, tables, and graphical representations where appropriate. The characteristics of included studies will be summarized, including study design, and participant characteristics may also be presented visually using charts or graphs.
+A narrative discussion will accompany the results to contextualize the findings in relation to the review objectives, identify limitations and strengths of the review, and highlight implications for future research and intervention development targeting sedentary behaviour among teleworkers. Potential sources of bias and limitations associated with the rapid review methodology, including methodological restrictions introduced to improve feasibility and timeliness, will be considered when interpreting the findings to avoid overgeneralization or unwarranted conclusions.
 
-Findings will be synthesized in relation to the review objectives and organized according to the Population-Concept-Context (PCC) framework. Attention will be given to the characteristics of interventions targeting sedentary behaviour reduction among teleworkers, including reported barriers, facilitators, implementation considerations, and research gaps identified across the literature.
-
-As this review aims to map literature rather than evaluate intervention effectiveness, a formal risk of bias assessment and certainty of evidence appraisal (GRADE) will not be conducted. However, potential sources of bias and limitations associated with the rapid review methodology, including methodological restrictions introduced to improve feasibility and timeliness, will be considered when interpreting the findings to avoid overgeneralization or unwarranted conclusions.
-
-A narrative discussion will accompany the results to contextualize the findings in relation to the review objectives, identify limitations and strengths of the review, and highlight implications for future research and intervention development targeting sedentary behaviour among teleworkers.
-
-Understanding...is important in the development...This review will add. To our understanding of...which isn’t well understood yet.
+Understanding...is important in the development...This review will add... to our understanding of...which isn’t well understood yet...**TODO**
 
 ## Acknowledgements
 
